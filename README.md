@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saraolivetoo
 - 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning Java & JQuery
+- 🌱 I’m currently learning Java, Java Script, axios, JQuery
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: idk
 
