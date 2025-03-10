@@ -2,7 +2,6 @@
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Java, Java Script, axios, JQuery
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: idk
 
 <!---
 saraolivetoo/saraolivetoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
